@@ -1,6 +1,14 @@
 {
   "version": "0.2.0",
   "configurations": [
+  
+    {
+      "type": "java",
+      "name": "Launch Select",
+      "request": "launch",
+      "mainClass": "selection.Select",
+      "projectName": "fluffy-chainsaw_492efd35"
+    },
     {
       "type": "java",
       "name": "Launch Work",
